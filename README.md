@@ -6,7 +6,7 @@ A PowerDNS backend module to give the IP address of the client as DNS response.
 
 ## Synopsis
 
-```conf
+```shell
     launch=gmysql,remoteip
     remoteip-domain=dbg.foo.com
 ```
